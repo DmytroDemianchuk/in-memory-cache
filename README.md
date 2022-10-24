@@ -1,6 +1,7 @@
 # example
 Не розумію чому не працює, підкажіть будь ласка як потрібно було зробити правельно
-``go
+
+```go
 go get github.com/dmytrodemianchuk/in-memory-cache
 
 ```go
