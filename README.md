@@ -3,6 +3,7 @@
 
 ```go
 go get github.com/dmytrodemianchuk/in-memory-cache
+```
 
 ```go
 package main
